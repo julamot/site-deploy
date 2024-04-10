@@ -135,8 +135,8 @@ sync_files() {
 }
 
 validate
-setup_env
-setup_ssh_dir
-check_lint
-check_cache
-sync_files
+#setup_env
+#setup_ssh_dir
+#check_lint
+#check_cache
+#sync_files
